@@ -3,3 +3,10 @@ test.txt
 
 # nobody needs to see my input
 input.txt
+
+# output files for C builds
+part1
+part2
+
+# vscode files
+.vscode/
