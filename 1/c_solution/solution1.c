@@ -66,8 +66,6 @@ int main() {
         else if (firstDigit == -1 && lastDigit == -1) {
             continue;
         }
-
-        printf("line: %s\nfirst number: %d\nlast number:  %d\ndigit to add: %d\n\n", buffer, firstDigit, lastDigit, firstDigit * 10 + lastDigit);
         
         total += firstDigit * 10 + lastDigit;
     }
