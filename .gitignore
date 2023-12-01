@@ -1,0 +1,5 @@
+# redirect output files
+test.txt
+
+# nobody needs to see my input
+input.txt
