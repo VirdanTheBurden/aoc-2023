@@ -74,4 +74,6 @@ int main() {
 
     free(buffer);
     fclose(f);
+
+    return EXIT_SUCCESS;
 }
